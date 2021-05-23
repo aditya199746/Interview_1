@@ -1,0 +1,120 @@
+body {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
+.blue {
+  color: blue;
+}
+
+.btn-1 {
+  border: none;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 8px;
+  width: 90px;
+  height: 33px;
+}
+.top {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.grey {
+  color: gray;
+}
+.lessmargin {
+  margin-top: -15px;
+}
+.btn-2 {
+  background-color: blue;
+  color: white;
+  height: 33px;
+  width: 140px;
+  border: none;
+  border-radius: 4px;
+}
+.btn-3 {
+  color: blue;
+  background-color: lightgrey;
+
+  height: 33px;
+  width: 140px;
+  border: none;
+  border-radius: 4px;
+}
+.img-1 {
+  width: 35%;
+  margin-right: 200px;
+  object-fit: cover;
+}
+.flex {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.big {
+  font-size: xx-large;
+}
+
+.small-img {
+  width: 30px;
+}
+.cursive {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.card {
+  width: 30%;
+  height: 460px;
+  display: grid;
+  background-color: white;
+  object-fit: cover;
+}
+.greenbtn {
+  color: white;
+  background-color: teal;
+  border: none;
+  border-radius: 5px;
+}
+.card img {
+  object-fit: cover;
+  width: 100%;
+}
+.card input {
+  width: 100%;
+}
+.flexbox {
+  display: flex;
+  justify-content: space-between;
+}
+
+.size {
+  width: 60%;
+}
+.wrap {
+  word-wrap: break-word;
+}
+.small-pic {
+  width: 20px;
+}
+.topmargin {
+  margin-top: 30px;
+}
+.left {
+  margin-left: 20px;
+}
+.green {
+  color: darkgreen;
+}
+.center {
+  align-items: center;
+}
+
+.flexspace {
+  display: flex;
+  justify-content: space-evenly;
+}
